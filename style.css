@@ -1,0 +1,18 @@
+b {
+  font-weight: bold;
+}
+.hosting__title {
+  background-color: aqua;
+}
+.card__title {
+  font-size: larger;
+  background-color: rgb(58, 189, 250);
+}
+
+.hosting__pice {
+  background-color: skyblue;
+}
+
+.hosting__pice {
+  color: tomato;
+}
